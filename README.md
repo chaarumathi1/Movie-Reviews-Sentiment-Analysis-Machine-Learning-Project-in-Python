@@ -1,1 +1,2 @@
 # Movie-Reviews-Sentiment-Analysis-Machine-Learning-Project-in-Python
+This project performs sentiment analysis on movie reviews using machine learning in Python. It processes textual data with NLP techniques like tokenization, stopword removal, and vectorization (using TF-IDF or CountVectorizer), and trains models such as Logistic Regression, Naive Bayes, or SVM to classify reviews as positive or negative. The project includes evaluation metrics (accuracy, precision, recall) and allows predictions on custom input.
